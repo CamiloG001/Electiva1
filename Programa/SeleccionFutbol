@@ -1,8 +1,8 @@
 package Programa;
 
 public class SeleccionFutbol(){
-    private int id,edad;
-    private String Nombre Apellido;
+    protected int id,edad;
+    protected String Nombre Apellido;
 
     public SeleccionFutbol(){
 
@@ -12,6 +12,13 @@ public class SeleccionFutbol(){
         this.Nombre=Nombre;
         this.Apellido=Apellido;
         this.edad=edad;
+    }
+
+    public void Concentrarse(){
+
+    }
+    public void Viajar(){
+        
     }
     
 }
