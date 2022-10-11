@@ -1,5 +1,8 @@
 package Programa;
 
-class Futbolista{
+public class Futbolista() extends SeleccionFutbol{
+    public Futbolista(){
+        super();
+    }
 
 }
