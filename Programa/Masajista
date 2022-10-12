@@ -1,6 +1,6 @@
 package Programa;
 
-class Masajista{
+class Masajista()extends SeleccionFutbol{
 
     
 }
