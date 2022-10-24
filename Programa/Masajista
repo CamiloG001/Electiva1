@@ -1,8 +1,9 @@
 package Programa;
 
 class Masajista()extends SeleccionFutbol{
+
  private String Titulacion;
- private int aniosExperiencia;
+ private int añosExperiencia;
 
    public Masajista() {
   super();
