@@ -22,4 +22,12 @@ public class Futbolista() extends SeleccionFutbol{
     public void Entrenar(){
 
     }
+
+    public void Lesionarse(){
+
+    }
+
+    public void Rehabilitarse(){
+        
+    }
 }   

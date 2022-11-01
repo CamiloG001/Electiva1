@@ -11,5 +11,13 @@ class Masajista()extends SeleccionFutbol{
   public void darMasaje() {
   
  }
+ public void RecuperarJugador(){
+
+ }
+
+ public void HacerTerapia(){
+
+ }
+ 
     
 }

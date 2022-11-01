@@ -8,7 +8,7 @@ public static ArrayList<SeleccionFutbol> integrantes = new ArrayList<SeleccionFu
   Futbolista iniesta = new Futbolista(2, "Andres", "Iniesta", 29, 6, "Interior Derecho");
   Masajista raulMartinez = new Masajista(3, "Raúl", "Martinez", 41, "Licenciado en Fisioterapia", 18);
 
-   integrantes.add(delBosque);
+  integrantes.add(delBosque);
   integrantes.add(iniesta);
   integrantes.add(raulMartinez);
 
